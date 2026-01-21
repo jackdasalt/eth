@@ -1,0 +1,137 @@
+{
+  "courses": [
+    {
+      "title": "Past Papers",
+      "links": [
+        {
+          "label": "Exams Portal",
+          "url": "https://exams.vis.ethz.ch/",
+          "style": "eth"
+        }
+      ]
+    },
+
+    {
+      "title": "Intro Programming",
+      "enabled": false,
+      "links": [
+        {
+          "label": "Course Page",
+          "url": "https://lec.inf.ethz.ch/infk/eprog/2025/",
+          "style": "eth"
+        },
+        {
+          "label": "GitLab",
+          "url": "https://gitlab.inf.ethz.ch/course-eprog2025/students/hongta/-/tree/main",
+          "style": "gitlab"
+        }
+      ]
+    },
+
+    {
+      "title": "Algorithms & Data Structures",
+      "enabled": false,
+      "links": [
+        {
+          "label": "Moodle",
+          "url": "https://moodle-app2.let.ethz.ch/course/view.php?id=26169",
+          "style": "moodle"
+        },
+        {
+          "label": "Expert",
+          "url": "https://expert.ethz.ch/enrolled/AS25/aud/exercises",
+          "style": "expert"
+        }
+      ]
+    },
+
+    {
+      "title": "Linear Algebra",
+      "enabled": false,
+      "links": [
+        {
+          "label": "Course Page",
+          "url": "https://ti.inf.ethz.ch/ew/courses/LA25/index.html",
+          "style": "eth"
+        },
+        {
+          "label": "Moodle",
+          "url": "https://moodle-app2.let.ethz.ch/course/view.php?id=26165",
+          "style": "moodle"
+        }
+      ]
+    },
+
+    {
+      "title": "Discrete Mathematics",
+      "enabled": false,
+      "links": [
+        {
+          "label": "Moodle",
+          "url": "https://moodle-app2.let.ethz.ch/course/view.php?id=26135",
+          "style": "moodle"
+        }
+      ]
+    },
+
+    {
+      "title": "Analysis II",
+      "links": [
+        {
+          "label": "Course Page",
+          "url": "https://metaphor.ethz.ch/x/2025/hs/401-0213-16L/",
+          "style": "eth"
+        }
+      ]
+    },
+
+    {
+      "title": "Probability & Statistics",
+      "links": [
+        {
+          "label": "Course Page",
+          "url": "https://metaphor.ethz.ch/x/2025/fs/401-0614-00L/",
+          "style": "eth"
+        }
+      ]
+    },
+
+    {
+      "title": "Algorithms Lab",
+      "links": [
+        {
+          "label": "Course Page",
+          "url": "https://cadmo.ethz.ch/education/lectures/HS25/algolab/index.html",
+          "style": "eth"
+        },
+        {
+          "label": "Expert",
+          "url": "https://expert.ethz.ch/enrolled/AS25/algolab/exercises",
+          "style": "expert"
+        }
+      ]
+    },
+
+    {
+      "title": "Akuna 101",
+      "links": [
+        {
+          "label": "Home",
+          "url": "https://akunacapital.teachable.com/courses/enrolled/837423",
+          "style": "akuna"
+        }
+      ]
+    },
+
+    {
+      "title": "LeetCode 150",
+      "links": [
+        {
+          "label": "Home",
+          "url": "https://leetcode.com/studyplan/top-interview-150/",
+          "style": "leetcode"
+        }
+      ]
+    }
+  ]
+}
